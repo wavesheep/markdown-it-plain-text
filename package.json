@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-plain-text",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "plain text extractor plugin for markdown-it markdown parser",
   "keywords": [
     "markdown-it-plugin",
