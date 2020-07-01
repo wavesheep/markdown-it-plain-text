@@ -2,3 +2,8 @@
 ------------------
 
 - First release.
+
+0.2.0
+------------------
+
+- Add typescript support.
