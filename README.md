@@ -48,6 +48,16 @@ md.plainText
 const md = window.markdownit().use(window.markdownItPlainTextPlugin);
 ```
 
+### Typescript
+If you load the script in ts, you will get the ts(2339) error. You can fix it with
+```ts
+(md as any).plainText
+```
+or
+```ts
+// @ts-ignore
+md.plainText
+```
 ## Generation rule
 
 1. extract `text`, `fence`, `html_block`, `code_block`,  `html_inline`,  `emoji` content directly
