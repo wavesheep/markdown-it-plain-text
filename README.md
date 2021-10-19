@@ -22,7 +22,7 @@ npm install markdown-it-plain-text
 [https://cdn.jsdelivr.net/gh/wavesheep/markdown-it-plain-text@0.3.0/dist/markdown-it-plain-text.js](https://cdn.jsdelivr.net/gh/wavesheep/markdown-it-plain-text@0.3.0/dist/markdown-it-plain-text.js)
 
 ### compressed
-[https://cdn.jsdelivr.net/gh/wavesheep/markdown-it-plain-text@0.3.0/dist/markdown-it-plain-text.min.js](https://cdn.jsdelivr.net/gh/wavesheep/markdown-it-plain-text@0.3.0/dist/markdown-it-plain-text.js)
+[https://cdn.jsdelivr.net/gh/wavesheep/markdown-it-plain-text@0.3.0/dist/markdown-it-plain-text.min.js](https://cdn.jsdelivr.net/gh/wavesheep/markdown-it-plain-text@0.3.0/dist/markdown-it-plain-text.min.js)
 
 ## Usage examples
 
