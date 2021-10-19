@@ -19,6 +19,7 @@ module.exports = function plainTextPlugin(md) {
           token.type === 'fence' ||
           token.type === 'html_block' ||
           token.type === 'code_block' ||
+          token.type === 'code_inline' ||
           token.type === 'html_inline' ||
           token.type === 'emoji'
         ) {

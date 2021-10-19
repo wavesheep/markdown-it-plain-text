@@ -19,9 +19,10 @@ npm install markdown-it-plain-text
 ### browser (CDN)
 
 ### uncompressed
-[https://cdn.jsdelivr.net/gh/wavesheep/markdown-it-plain-text@0.2.1/dist/markdown-it-plain-text.js](https://cdn.jsdelivr.net/gh/wavesheep/markdown-it-plain-text@0.2.1/dist/markdown-it-plain-text.js)
+[https://cdn.jsdelivr.net/gh/wavesheep/markdown-it-plain-text@0.3.0/dist/markdown-it-plain-text.js](https://cdn.jsdelivr.net/gh/wavesheep/markdown-it-plain-text@0.3.0/dist/markdown-it-plain-text.js)
+
 ### compressed
-[https://cdn.jsdelivr.net/gh/wavesheep/markdown-it-plain-text@0.2.1/dist/markdown-it-plain-text.min.js](https://cdn.jsdelivr.net/gh/wavesheep/markdown-it-plain-text@0.2.1/dist/markdown-it-plain-text.js)
+[https://cdn.jsdelivr.net/gh/wavesheep/markdown-it-plain-text@0.3.0/dist/markdown-it-plain-text.min.js](https://cdn.jsdelivr.net/gh/wavesheep/markdown-it-plain-text@0.3.0/dist/markdown-it-plain-text.js)
 
 ## Usage examples
 
@@ -60,7 +61,7 @@ md.plainText
 ```
 ## Generation rule
 
-1. extract `text`, `fence`, `html_block`, `code_block`,  `html_inline`,  `emoji` content directly
+1. extract `text`, `fence`, `html_block`, `code_block`,`code_inline`, `html_inline`,  `emoji` content directly
 2. add `space` at closing tag to *prevent words from sticking together*
 3. *remove redundant white spaces* from result
 

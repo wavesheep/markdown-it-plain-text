@@ -12,3 +12,9 @@
 ------------------
 
 - Fix wrong type declaration.
+
+0.3.0
+------------------
+
+- Support `code_inline`
+
